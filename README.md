@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=HI%20SWARNAJIT%20CHATTERJEE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://raw.githubusercontent.com/sn009-cloud/sn009-cloud/main/avatar_study.svg" alt="Swarnajit studying" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi%2C+I'm+Swarnajit+Chatterjee;%F0%9F%A4%96+Aspiring+Machine+Learning+Engineer;%F0%9F%A7%A0+Learning+AI+%26+ML%2C+one+model+at+a+time;%F0%9F%92%BB+JavaScript+%7C+Python+%7C+Data+Science;%F0%9F%9A%80+Turning+data+into+intelligent+apps" alt="Typing SVG" />
@@ -107,31 +107,31 @@ flowchart LR
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Learning Progress
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sn009-cloud&theme=react-dark&hide_border=true&area=true" width="100%" />
+<img src="https://raw.githubusercontent.com/sn009-cloud/sn009-cloud/main/skills_progress.svg" alt="Learning progress" width="100%" />
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🎯 Milestones
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sn009-cloud&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
+- ✅ Completed 16 JavaScript topics, from basics to Async/Await
+- ✅ Built 4 projects: Tic Tac Toe, Stone Paper Scissors, Astrology App, Zomato Frontend
+- 🔄 Learning Python and Machine Learning fundamentals
+- ⏳ Next: Deep Learning with TensorFlow and PyTorch
+- ⏳ Goal: Build and deploy my first end-to-end ML project
 
 ---
 
-## 🐍 Contribution Snake
+## 🧠 Neural Network
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sn009-cloud/sn009-cloud/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/sn009-cloud/sn009-cloud/main/neural_network.svg" alt="Neural network animation" width="100%" />
 
 </div>
 
